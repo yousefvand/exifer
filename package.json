@@ -1,0 +1,28 @@
+{
+  "name": "exifer",
+  "version": "1.0.0",
+  "description": "Telegram exif reader bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remisa-yousefvand/exifer.git"
+  },
+  "keywords": [
+    "exif",
+    "Telegram",
+    "bot"
+  ],
+  "author": "Remisa Yousefvand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remisa-yousefvand/exifer/issues"
+  },
+  "homepage": "https://github.com/remisa-yousefvand/exifer#readme",
+  "dependencies": {
+    "jpeg-exif": "git+https://github.com/zhso/jpeg-exif.git",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
