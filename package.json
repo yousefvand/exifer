@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/remisa-yousefvand/exifer.git"
+    "url": "git+https://github.com/yousefvand/exifer.git"
   },
   "keywords": [
     "exif",
@@ -18,9 +18,9 @@
   "author": "Remisa Yousefvand",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/remisa-yousefvand/exifer/issues"
+    "url": "https://github.com/yousefvand/exifer/issues"
   },
-  "homepage": "https://github.com/remisa-yousefvand/exifer#readme",
+  "homepage": "https://github.com/yousefvand/exifer#readme",
   "dependencies": {
     "jpeg-exif": "git+https://github.com/zhso/jpeg-exif.git",
     "node-telegram-bot-api": "^0.30.0"

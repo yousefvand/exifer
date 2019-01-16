@@ -6,7 +6,7 @@ Extracts information attached to `jpg` images (send as file in Telegram)
 ## Install
 
 ```bash
-git clone https://github.com/remisa-yousefvand/exifer.git
+git clone https://github.com/yousefvand/exifer.git
 cd exifer
 TELEGRAM_APIKEY=<TELEGRAM API KEY> node index.js
 ```
