@@ -1,6 +1,6 @@
 {
   "name": "exifer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Telegram exif reader bot",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/yousefvand/exifer#readme",
   "dependencies": {
     "jpeg-exif": "git+https://github.com/zhso/jpeg-exif.git",
-    "node-telegram-bot-api": "^0.30.0"
+    "node-telegram-bot-api": "^0.50.0"
   }
 }
