@@ -23,6 +23,10 @@ docker run -d --name exiferbot -e TELEGRAM_APIKEY=<TELEGRAM API KEY> --restart a
 
 ## Changes
 
+### Version 1.0.2
+
+- Dependency update to fix security vulnerabilities.
+
 ### Version 1.0.1
 
 - Dependency update to fix security vulnerabilities.
